@@ -1,0 +1,27 @@
+{
+  "bugs": {
+    "url": "https://github.com/roguh/express-swagger-generator-types/issues"
+  },
+  "contributors": [
+    {
+      "name": "Hugo O. Rivera",
+      "url": "https://roguh.com"
+    }
+  ],
+  "dependencies": {
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for express-swagger-generator",
+  "homepage": "https://github.com/roguh/express-swagger-generator-types",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/express-swagger-generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roguh/express-swagger-generator-types.git",
+    "directory": "./"
+  },
+  "scripts": {},
+  "types": "index.d.ts",
+  "version": "1.1.17"
+}
