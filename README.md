@@ -1,5 +1,5 @@
 # Installation
-> `npm install --save-dev @types/express`
+> `npm install --save-dev express-swagger-generator-types`
 
 # Summary
 This package contains type definitions for [Express Swagger Generator](https://www.npmjs.com/package/express-swagger-generator).

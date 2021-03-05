@@ -15,7 +15,7 @@
   "homepage": "https://github.com/roguh/express-swagger-generator-types",
   "license": "MIT",
   "main": "",
-  "name": "@types/express-swagger-generator",
+  "name": "express-swagger-generator-types",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/roguh/express-swagger-generator-types.git",
